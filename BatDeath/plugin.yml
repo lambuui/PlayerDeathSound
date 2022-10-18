@@ -1,6 +1,6 @@
 name: BatDeath
-main: NotBellwa\BatDeath\main
+main: Milly\BatDeath\main
 version: 0.0.1
 api:  3.14.1
 description: "Death Sound"
-author: NotBellwa
+author: miliian
