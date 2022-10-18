@@ -1,6 +1,6 @@
 <?php
 declare(strict_types=1);
-namespace NotBellwa\BatDeath;
+namespace Milly\BatDeath;
 
 use pocketmine\event\Listener;
 use pocketmine\plugin\PluginBase;
